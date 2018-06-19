@@ -13,11 +13,6 @@ def assign_rooms (speakers)
     new_arr << "Hello, #{name}!, You'll be assigned to room #{index + 1}!"}
   end
   new_arr
-end 
-
-    puts "Hello, #{speaker}! You'll be assigned to room #{room_number}!"
-#array of room assignments
 end
 
-  def printer (batch_badge_creator, assign_rooms)
-end
+  
